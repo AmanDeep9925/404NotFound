@@ -77,6 +77,11 @@ main {
     background-color: black;
     border: 1px solid black;
     color: snow;
+    
+}
+
+.home-button a{
+  text-decoration: none;
 }
 
 @media (max-width: 720px) {
